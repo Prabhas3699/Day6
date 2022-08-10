@@ -3,7 +3,7 @@ public class CouponNumber {
 
 	public static void main(String[] args) {
 		/*
-         * initiating char and int variable
+         * initiating char array and int variable
          */
         char[] chars="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789".toCharArray();
         int max=100000000;
