@@ -5,7 +5,7 @@ public class StopWatch {
 	private final long start;
 
 	/*
-	 * Initializes a new stopwatch.
+	 * Initializing a new stopwatch.
 	 */
 	public StopWatch() {
 		/*
