@@ -4,7 +4,7 @@ public class ReverseNumber {
 	public static void main(String[] args) {
 		
 		//initiating variables
-		int num = 123;
+		int num = 456;
 		int rev=0;
 		int i;
 		
